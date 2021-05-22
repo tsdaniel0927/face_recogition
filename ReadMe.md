@@ -1,7 +1,4 @@
 # Project CITS4402
-### Daniel Hess: 21971897
-### Shuo Tan: 21932355
-### Hank Hoang: 22783195
 
 
 ## 1. Approach and partition
